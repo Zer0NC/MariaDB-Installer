@@ -17,7 +17,7 @@ This script automates the installation and basic security configuration of Maria
 
 1. Clone this repository or download the script:
    ```sh
-   git clone https://github.com/Zer0NC/MariaDB
+   git clone https://github.com/Zer0NC/MariaDB-Installer
    ```
 
 2. Make the script executable:
