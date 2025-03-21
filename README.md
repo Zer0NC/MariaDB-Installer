@@ -27,7 +27,7 @@ This script automates the installation and basic security configuration of Maria
 
 3. Run the script:
    ```sh
-   sudo ./install_mariadb.sh
+   sudo ./mariadb.sh
    ```
 
 ## Script Content
